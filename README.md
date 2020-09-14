@@ -12,3 +12,8 @@ An Android App that shows the use of Modern Practices introduced by Google at Go
 ## Structural Diagram 
 
 Coming Soon
+
+## Screenshots
+
+[](screenshots/image1.png)
+[](screenshots/image2.png)

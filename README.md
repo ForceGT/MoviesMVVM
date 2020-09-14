@@ -15,5 +15,5 @@ Coming Soon
 
 ## Screenshots
 
-[](screenshots/image1.png)
-[](screenshots/image2.png)
+![](screenshots/image1.png)
+![](screenshots/image2.png)
